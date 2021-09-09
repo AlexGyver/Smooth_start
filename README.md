@@ -42,19 +42,19 @@
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
 ### Почти все компоненты можно взять в магазине WAVGAT по первым ссылкам
 * Arduino NANO 328p – искать
-* https://ali.ski/tI7blh
-* https://ali.ski/O4yTxb
-* https://ali.ski/6_rFIS
-* https://ali.ski/gb92E-
+* https://ali.ski/_mWzgw
+* https://ali.ski/1VbGc
+* https://ali.ski/DPJM4
+* https://ali.ski/VmzRH
 * Digispark искать
 * БП AC-DC 5V
-* https://ali.ski/Bb65N
-* https://ali.ski/WVl_P
-* Потенциометры 10 кОм https://ali.ski/CgfJ0
-* Кнопки https://ali.ski/Wfrs1
-* Диммер модуль http://ali.pub/2qoan
-* Диммер с крутилкой 2 кВт https://ali.ski/U70oJG
-* Диммер с крутилкой 10 кВт https://ali.ski/COOCA
+* https://ali.ski/8pc7gL
+* https://ali.ski/UuzdyZ
+* Потенциометры 10 кОм https://ali.ski/SC7b1
+* Кнопки https://ali.ski/3xB4dN
+* Диммер модуль https://ali.ski/cr3yAF
+* Диммер с крутилкой 2 кВт https://ali.ski/enTZ4R
+* Диммер с крутилкой 10 кВт https://ali.ski/CmXgnz
 
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
